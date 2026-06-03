@@ -169,7 +169,3 @@ Crush 8–10 puris into each bowl. Ladle hot pea masala generously over. Top wit
 **Cooking liquid:** Don't discard — it's the secret to a good gravy.
 
 **Rest time:** The gravy tastes best after a few hours or the next day. Reheat well before serving.
-
-**Marathi moggu:** Find these at Karnataka or South Indian grocery stores. If unavailable, sub with an extra clove and a tiny pinch of allspice.
-
-**Green vs orange masala:** This recipe gives a greenish masala. For a more orange version, reduce coriander leaves to 2 stalks and add 1 extra tsp coriander seeds instead.
