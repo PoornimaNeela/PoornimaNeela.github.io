@@ -2,7 +2,7 @@
 layout: post
 title: "Bangalore Style Masala Puri"
 date: 2026-06-03
-categories: chaat street-food bangalore
+categories: [Indian, Chaat]
 ---
 
 If there's one dish that makes me instantly homesick for Bangalore, it's masala puri. Not the chickpea versions you find outside Karnataka – the real deal: a thick, greenish pea masala ladled over crushed puris, topped with sev, raw onion, carrot, and a squeeze of lime. :)
@@ -10,7 +10,7 @@ If there's one dish that makes me instantly homesick for Bangalore, it's masala 
 The spice blend is the heart of it – don't skip the marathi moggu if you can find it at an Indian grocery store.
 
 ![Bangalore-style masala puri](/assets/images/Masala_puri.jpg){: style="width:100%; border-radius:12px; margin: 1em 0;"}
----
+
 
 ## Serving Size
 
